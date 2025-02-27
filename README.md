@@ -15,7 +15,7 @@
 - [🎮 Gameplay & Unique Mechanics](docs/03_Mechanics_and_Gameplay.md)
 - [🎨 Visual Design & Atmosphere](docs/04_Visual_Design.md)
 - [📈 Level Design & Progression](docs/05_Progression_and_Levels.md)
-- [📜 Full Concept Document](docs/06_Concept_Document.md)
+- [📜 Full Concept Document](https://docs.google.com/document/d/1Al0cnFlrC5k2u-wpTdrgcI6MoM2SpMNVFOr9eNany7I/edit?tab=t.0)
   
 ## Contact & Developer Info
 

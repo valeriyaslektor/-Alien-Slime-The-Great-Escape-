@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/c7aea7be-1a2a-4552-9686-1d7f8436da1a)# Alien Slime: The Great Escape
-
 ## About the Game
 "Alien Slime: The Great Escape" is a **sci-fi stealth puzzle game** where players control a vulnerable alien slime trying to escape from a secret research facility. Using a **possession mechanic**, players take over NPCs, gather keycards, and solve environmental puzzles while avoiding detection.
 

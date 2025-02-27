@@ -1,4 +1,4 @@
-# Alien Slime: The Great Escape
+![image](https://github.com/user-attachments/assets/c7aea7be-1a2a-4552-9686-1d7f8436da1a)# Alien Slime: The Great Escape
 
 ## About the Game
 "Alien Slime: The Great Escape" is a **sci-fi stealth puzzle game** where players control a vulnerable alien slime trying to escape from a secret research facility. Using a **possession mechanic**, players take over NPCs, gather keycards, and solve environmental puzzles while avoiding detection.
@@ -18,7 +18,7 @@
 
 ## Contact & Developer Info
 
-- **Game Design & Concept:** [Valeriya Slektor](#)
+- **Game Design & Concept:** [Valeriya Slektor](https://t.me/vskruspe)
 - **Email:** [valeriyaslektor2000@gmail.com](mailto:valeriyaslektor2000@gmail.com)
 - **Portfolio:** [View Portfolio](https://drive.google.com/drive/u/0/folders/1cq41DIY5xLhYFaG6vVkUI73px7p9S9sL)
 

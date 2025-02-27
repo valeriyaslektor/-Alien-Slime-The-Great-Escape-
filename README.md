@@ -16,7 +16,7 @@
 - [🎨 Visual Design & Atmosphere](docs/04_Visual_Design.md)
 - [📈 Level Design & Progression](docs/05_Progression_and_Levels.md)
 - [📜 Full Concept Document](docs/06_Concept_Document.md)
-- 
+  
 ## Contact & Developer Info
 
 - **Game Design & Concept:** [Valeriya Slektor](https://t.me/vskruspe)

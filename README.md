@@ -17,9 +17,11 @@
 - [📈 Level Design & Progression](docs/05_Progression_and_Levels.md)
 
 ## Contact & Developer Info
-- **Game Design & Concept:** [Valeriya Slektor]
-- **Email:** [valeriyaslektor2000@gmail.com]
-- **Portfolio** [https://drive.google.com/drive/u/0/folders/1cq41DIY5xLhYFaG6vVkUI73px7p9S9sL]
+
+- **Game Design & Concept:** [Valeriya Slektor](#)
+- **Email:** [valeriyaslektor2000@gmail.com](mailto:valeriyaslektor2000@gmail.com)
+- **Portfolio:** [View Portfolio](https://drive.google.com/drive/u/0/folders/1cq41DIY5xLhYFaG6vVkUI73px7p9S9sL)
+
 
 *This project is in development and open to feedback! If you'd like to contribute or collaborate, feel free to reach out.*
 

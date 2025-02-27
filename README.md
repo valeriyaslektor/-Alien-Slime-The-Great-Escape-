@@ -1,3 +1,5 @@
+# Alien Slime: The Great Escape
+
 ## About the Game
 "Alien Slime: The Great Escape" is a **sci-fi stealth puzzle game** where players control a vulnerable alien slime trying to escape from a secret research facility. Using a **possession mechanic**, players take over NPCs, gather keycards, and solve environmental puzzles while avoiding detection.
 
